@@ -1,0 +1,32 @@
+J:\Dev\VS\TK_Deployer\TK_Deployer\bin\Release\TK_Deployer.exe
+J:\Dev\VS\TK_Deployer\TK_Deployer\bin\Release\TK_Deployer.pdb
+J:\Dev\VS\TK_Deployer\TK_Deployer\bin\Release\TK_BaseLib.dll
+J:\Dev\VS\TK_Deployer\TK_Deployer\bin\Release\TK_GraphComponents.pdb
+J:\Dev\VS\TK_Deployer\TK_Deployer\bin\Release\TK_BaseLib.pdb
+J:\Dev\VS\TK_Deployer\TK_Deployer\obj\Release\ResolveAssemblyReference.cache
+J:\Dev\VS\TK_Deployer\TK_Deployer\obj\Release\TK_Deployer.DeployerUCtrl.resources
+J:\Dev\VS\TK_Deployer\TK_Deployer\obj\Release\TK_Deployer.MainForm.resources
+J:\Dev\VS\TK_Deployer\TK_Deployer\obj\Release\TK_Deployer.MainUCtrl.resources
+J:\Dev\VS\TK_Deployer\TK_Deployer\obj\Release\TK_Deployer.Form1.resources
+J:\Dev\VS\TK_Deployer\TK_Deployer\obj\Release\TK_Deployer.Properties.Resources.resources
+J:\Dev\VS\TK_Deployer\TK_Deployer\obj\Release\TK_Deployer.ToolsUCtrl.resources
+J:\Dev\VS\TK_Deployer\TK_Deployer\obj\Release\TK_Deployer.csproj.GenerateResource.Cache
+J:\Dev\VS\TK_Deployer\TK_Deployer\obj\Release\TK_Deployer.exe
+J:\Dev\VS\TK_Deployer\TK_Deployer\obj\Release\TK_Deployer.pdb
+J:\Dev\VS\TK_Deployer\TK_Deployer\bin\Release\TK_GraphComponents.dll
+J:\Dev\VS\TK_Deployer\TK_Deployer\bin\Release\MiniLogger.dll
+J:\Dev\VS\TK_Deployer\TK_Deployer\bin\Release\MiniLogger.pdb
+C:\Documents and Settings\cyril.gibaud\My Documents\Dev\TK_Deployer\TK_Deployer\bin\Release\TK_Deployer.exe
+C:\Documents and Settings\cyril.gibaud\My Documents\Dev\TK_Deployer\TK_Deployer\bin\Release\TK_Deployer.pdb
+C:\Documents and Settings\cyril.gibaud\My Documents\Dev\TK_Deployer\TK_Deployer\bin\Release\MiniLogger.dll
+C:\Documents and Settings\cyril.gibaud\My Documents\Dev\TK_Deployer\TK_Deployer\bin\Release\MiniLogger.pdb
+C:\Documents and Settings\cyril.gibaud\My Documents\Dev\TK_Deployer\TK_Deployer\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\cyril.gibaud\My Documents\Dev\TK_Deployer\TK_Deployer\obj\Release\TK_Deployer.DeployerUCtrl.resources
+C:\Documents and Settings\cyril.gibaud\My Documents\Dev\TK_Deployer\TK_Deployer\obj\Release\TK_Deployer.MainForm.resources
+C:\Documents and Settings\cyril.gibaud\My Documents\Dev\TK_Deployer\TK_Deployer\obj\Release\TK_Deployer.MainUCtrl.resources
+C:\Documents and Settings\cyril.gibaud\My Documents\Dev\TK_Deployer\TK_Deployer\obj\Release\TK_Deployer.Form1.resources
+C:\Documents and Settings\cyril.gibaud\My Documents\Dev\TK_Deployer\TK_Deployer\obj\Release\TK_Deployer.Properties.Resources.resources
+C:\Documents and Settings\cyril.gibaud\My Documents\Dev\TK_Deployer\TK_Deployer\obj\Release\TK_Deployer.ToolsUCtrl.resources
+C:\Documents and Settings\cyril.gibaud\My Documents\Dev\TK_Deployer\TK_Deployer\obj\Release\TK_Deployer.csproj.GenerateResource.Cache
+C:\Documents and Settings\cyril.gibaud\My Documents\Dev\TK_Deployer\TK_Deployer\obj\Release\TK_Deployer.exe
+C:\Documents and Settings\cyril.gibaud\My Documents\Dev\TK_Deployer\TK_Deployer\obj\Release\TK_Deployer.pdb
